@@ -34,3 +34,8 @@ Top down flight shooter para niños enfocado en el aprendizaje y reforzamiento d
 <p align="center"> 
 <img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/Color%20Gunner/Recursos/creditos.png" alt="Pantalla de Selección - Creditos">
 </p>
+
+## Aviso de Fin del Juego
+<p align="center"> 
+<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Game%20Over.png" alt="Aviso de Fin del Juego - Color Gunner">
+</p>
