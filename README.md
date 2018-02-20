@@ -24,9 +24,9 @@ Top down flight shooter para niños enfocado en el aprendizaje y reforzamiento d
 ## Pantallas de Selección
 
 <p align="center"> 
-<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Ayuda.png" alt="Pantalla de Selección - Ayuda">
+<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Instrucciones.png" alt="Pantalla de Selección - Ayuda">
 </p>
 </br>
 <p align="center"> 
-<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Creditos.png" alt="Pantalla de Selección - Creditos">
+<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/Color%20Gunner/Recursos/creditos.png" alt="Pantalla de Selección - Creditos">
 </p>
