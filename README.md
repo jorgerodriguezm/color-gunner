@@ -6,17 +6,27 @@ Top down flight shooter para niños enfocado en el aprendizaje y reforzamiento d
 <img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Juego.png" alt="Pantalla Principal">
 </p>
 
-## Pantallas de Selección 
+## Opciones de Selección 
 
 <p align="center"> 
-<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Juego.png" alt="Pantalla de Selección - Juego">
+<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Juego.png" alt="Opciones de Selección - Juego">
 </p>
 </br>
 <p align="center"> 
-<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Ayuda.png" alt="Pantalla de Selección - Ayuda">  
+<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Ayuda.png" alt="Opciones de Selección - Ayuda">  
 </br>
 <p align="center"> 
-<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Creditos.png" alt="Pantalla de Selección - Créditos"> 
+<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Creditos.png" alt="Opciones de Selección - Créditos"> 
 </br>
 <p align="center"> 
-<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Salir.png" alt="Pantalla de Selección - Salir"> 
+<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Salir.png" alt="Opciones de Selección - Salir"> 
+  
+## Pantallas de Selección
+
+<p align="center"> 
+<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Ayuda.png" alt="Pantalla de Selección - Ayuda">
+</p>
+</br>
+<p align="center"> 
+<img src="https://github.com/jorgerodriguezm/color-gunner/blob/master/README_images/Pantalla%20Creditos.png" alt="Pantalla de Selección - Creditos">
+</p>
