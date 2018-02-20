@@ -1,0 +1,26 @@
+
+Si se desea ejecutar el juego:
+
+* es necesario contar con python 2.7.13 intalado (fue desarrollado con esa versión de pyhton).
+* es necesario tener intalado la librería de pygame (Necesariamente para la version de python 2.7).
+-------------------------------------------------------------------------------------------------
+para ver el código fuente del archivo Color_Gunner.py :
+
+si se tiene intalado pyhton 2.7.13:
+	* dar anticlick al archivo
+	* dar a "Edit with IDLE"
+	* si se desea ejecutar:
+		- presionar F5 o dar doble click al mismo archivo Color_gunner.py
+Si no se cuenta con Python 2.7.13:
+	* dar anticlick al archivo
+	* seleccionar la opción "abrir con"
+	* Seleccionar el editor de texto deseado (Lo básico es el Block de Notas)
+	
+
+
+
+-------------------------------------------------------------------------------------------------
+INTEGRANTES
+Minaya Jaulis, Josúe
+Rodriguez Martinez, Jorge Danilo
+Trujillo Meza, Wilder Winslao
